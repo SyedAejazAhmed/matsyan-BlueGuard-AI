@@ -11,8 +11,8 @@ BlueGuard AI is a comprehensive maritime surveillance system designed to detect 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/SyedAejazAhmed/matsyan-BlueGuard-AI.git
-cd matsyan-BlueGuard-AI
+git clone https://github.com/SyedAejazAhmed/BlueGuard-AI.git
+cd BlueGuard-AI
 ```
 
 ---
@@ -81,8 +81,8 @@ npm run dev          # Opens on http://localhost:8080
 ### Quick Start
 
 ```bash
-git clone https://github.com/SyedAejazAhmed/matsyan-BlueGuard-AI.git
-cd matsyan-BlueGuard-AI
+git clone https://github.com/SyedAejazAhmed/BlueGuard-AI.git
+cd BlueGuard-AI
 docker compose up --build
 ```
 
@@ -143,6 +143,14 @@ docker compose up --build
 ## License
 
 MIT – see [LICENSE.md](LICENSE.md) for full text.
+
+---
+
+## 👥 Collaborators
+
+• [Syed Aejaz Ahmed](https://github.com/SyedAejazAhmed) (Owner)
+
+• [Nowrin Begum R](https://github.com/NowrinbegumR) (Collaborator)
 
 ---
 
