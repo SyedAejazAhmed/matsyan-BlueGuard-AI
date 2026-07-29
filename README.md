@@ -148,7 +148,7 @@ MIT – see [LICENSE.md](LICENSE.md) for full text.
 
 ## 👥 Collaborators
 
-• [Syed Aejaz Ahmed](https://github.com/SyedAejazAhmed) (Owner)
+• [Syed Aejaz Ahmed](https://github.com/SyedAejazAhmed) (Team Lead)
 
 • [Nowrin Begum R](https://github.com/NowrinbegumR) (Collaborator)
 
